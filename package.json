@@ -1,0 +1,20 @@
+{
+  "name": "custom-hotkeys",
+  "main": "./lib/custom-hotkeys",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "custom-hotkeys:smallerThan",
+    "atom-workspace": "custom-hotkeys:biggerThan",
+    "atom-workspace": "custom-hotkeys:verticalLine"
+  },
+  "repository": "https://github.com/atom/custom-hotkeys",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

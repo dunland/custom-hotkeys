@@ -1,0 +1,23 @@
+{
+  "context-menu": {
+    "atom-text-editor": [{
+      "label": "Toggle custom-hotkeys",
+      "command": "custom-hotkeys:toggle"
+    }]
+  },
+  "menu": [
+    {
+      "label": "<",
+      "command": "custom-hotkeys:smallerThan"
+    },
+    {
+      "label": ">",
+      "command": "custom-hotkeys:biggerThan"
+    },
+    {
+      "label": "|",
+      "command": "custom-hotkeys:verticalLine"
+    }
+  ]
+
+  }

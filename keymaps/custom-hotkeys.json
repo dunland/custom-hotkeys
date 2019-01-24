@@ -1,0 +1,7 @@
+{
+ "atom-workspace": {
+    "alt-y": "custom-hotkeys:smallerThan",
+    "alt-x": "custom-hotkeys:biggerThan",
+    "alt-c": "custom-hotkeys:verticalLine"
+  }
+}
